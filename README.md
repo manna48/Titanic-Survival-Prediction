@@ -1,1 +1,1 @@
-# Titanic-Classification-Prediction
+# Titanic-Survival-Prediction
